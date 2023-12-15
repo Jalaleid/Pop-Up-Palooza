@@ -1,3 +1,10 @@
+
+
+
+https://github.com/Jalaleid/Pop-Up-Palooza/assets/119267918/c206ba57-aa2d-4d9a-9550-99680ba71cb1
+
+
+
 show Material banner: This widget displays a temporary banner at the top of the screen to provide brief information or notifications. It's often used for status updates or promotional messages.
 
 show snack bar: This widget displays a small bar at the bottom of the screen to provide quick feedback or messages. It's typically used for temporary notifications or alerts that don't require user interaction.
@@ -11,3 +18,5 @@ show date and time picker: This widget allows users to select a specific date or
 show bottom sheet: This widget slides up from the bottom of the screen to display supplementary content. It's often used for options menus, detailed information, or additional context.
 
 These widgets provide essential UI elements for building interactive and informative applications in Flutter.
+
+
