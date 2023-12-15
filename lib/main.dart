@@ -55,17 +55,17 @@ class HomePage extends StatelessWidget {
                         child: Column(
                           mainAxisAlignment: MainAxisAlignment.center,
                           children: [
-                            const Text('This is Bottem Sheet\n'),
+                            const Text('This is Bottom Sheet\n'),
                             ElevatedButton(
                                 onPressed: () {
                                   Navigator.pop(context);
                                 },
-                                child: const Text("Close Bottem Sheet"))
+                                child: const Text("Close Bottom Sheet"))
                           ],
                         ),
                       ));
             },
-            child: const Text("Show Bottem Sheet"),
+            child: const Text("Show Bottom Sheet"),
           ),
           ElevatedButton(
             onPressed: () {
